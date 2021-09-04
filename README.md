@@ -1,7 +1,7 @@
-#Welcome
+# Welcome
 
 My name is Jesus Valencia and this is a repository housing the files for my personal website
-which you can check out at [Jesus Valentin Valencia](http://jesusvalentinvalencia.wordpress.com/). I hope you enjoy your stay. Feel free to look around and check out some of my other projects as well!
+which you can check out [here](http://jesusvalentinvalencia.wordpress.com/). I hope you enjoy your stay. Feel free to look around and check out some of my other projects as well!
 <br>
 This site was made in VSCode using Bootstrap's [Freelancer](https://startbootstrap.com/theme/freelancer/) portfolio theme as it's base.
 
